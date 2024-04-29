@@ -1,0 +1,1 @@
+export 'package:flutter_getx_material/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
